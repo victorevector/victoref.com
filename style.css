@@ -56,3 +56,21 @@ a:hover {
   margin-top: 1.5rem;
   font-size: 0.9rem;
 }
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: #888;
+}
+
+footer a:hover {
+  color: #2c2c2c;
+}
+
+.sep {
+  color: #ccc;
+  margin: 0 0.4rem;
+}
